@@ -21,10 +21,5 @@ It provides an engaging user interface for customers to explore menus, learn abo
 
 ---
 
-## 📷 Screenshots
-> (Add your project screenshots here)
-
----
-
 ## 📂 Project Structure
 FoodiExpress/ │── index.html │── /css │    └── style.css │── /images │    └── (all project images) │── /bootstrap │    └── (Bootstrap files or CDN link in HTML)
